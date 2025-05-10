@@ -1,10 +1,11 @@
 Hi, I'm Hamid Rizvi 👋
 ------------------------------------------------------------------------
-- 🧑🏼‍🎓 I'm a Master's student at NYU studying Technology Management (Bachelor's in CS & Engineering)
-- 🌱 I’m currently learning Cloud Computing & Blockchain
-- 💻 Favourite Language - C++, Python, Solidity
+- 🧑🏼‍🎓 I'm a Master's student at NYU studying Technology Management (Bachelor's in CS & Engineering). I aspire to apply project management principles in tech-driven business growth.
+- 🌱 Currently leveraging cloud computing and strategic financial analysis to drive project success and business value.
+- 💻 Proficient in C++, Python, Solidity, JavaScript; experienced in managing technical projects and optimizing processes. 
 - 🤔 I'm interested in projects involving technology strategy, financial modeling, and business growth.
+- 💼 Seeking opportunities in project management, technology strategy, and business operations.
 - 📫 How to reach me: https://www.linkedin.com/in/hamid-rizvi
 - 😄 Pronouns: he/him
-- ⚡  Fun fact: The Statue of Liberty was a gift from France.
+- ⚡  Fun fact: The first project management software was developed in the 1950s for large-scale engineering projects.
 ------------------------------------------------------------------------
