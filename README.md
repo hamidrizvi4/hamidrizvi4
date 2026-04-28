@@ -14,6 +14,16 @@
 
 ---
 
+
+## Certifications
+
+[![CSPO](https://img.shields.io/badge/Certified_Scrum_Product_Owner-CSPO-6DB33F?style=flat-square)](https://www.scrumalliance.org/)
+[![CSM](https://img.shields.io/badge/Certified_Scrum_Master-CSM-6DB33F?style=flat-square)](https://www.scrumalliance.org/)
+[![Google PM](https://img.shields.io/badge/Google_Project_Management-Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://grow.google/certificates/project-management/)
+[![Pendo](https://img.shields.io/badge/AI_for_Product_Management-Pendo.io-FF4500?style=flat-square)](https://www.pendo.io/)
+
+---
+
 ## What I do
 
 I'm an AI PM who can actually build. I take ambiguous problems, figure out what's technically possible with LLMs, and ship MVPs that turn into real products — not decks.
@@ -84,15 +94,6 @@ I lead with discovery (25+ user interviews on my last product), prioritize with 
 | **99.5%** | Uptime across B2B client deployments with 3-layer fallback architecture |
 | **0.82** | Churn prediction AUC on 96K customer profiles |
 | **110K+** | Transactions processed by the analytics platform |
-
----
-
-## Certifications
-
-[![CSPO](https://img.shields.io/badge/Certified_Scrum_Product_Owner-CSPO-6DB33F?style=flat-square)](https://www.scrumalliance.org/)
-[![CSM](https://img.shields.io/badge/Certified_Scrum_Master-CSM-6DB33F?style=flat-square)](https://www.scrumalliance.org/)
-[![Google PM](https://img.shields.io/badge/Google_Project_Management-Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://grow.google/certificates/project-management/)
-[![Pendo](https://img.shields.io/badge/AI_for_Product_Management-Pendo.io-FF4500?style=flat-square)](https://www.pendo.io/)
 
 ---
 
