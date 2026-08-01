@@ -28,11 +28,26 @@
 
 I'm an AI PM who can actually build. I take ambiguous problems, figure out what's technically possible with LLMs, and ship MVPs that turn into real products — not decks.
 
-Currently building production RAG systems at **LexTrack AI** in NYC. Graduating from **NYU** (M.S. Technology Management) in May 2026 and looking for full-time PM roles.
+Currently building production RAG systems at **LexTrack AI** in NYC. Graduated from **NYU** (M.S. Technology Management) in May 2026 — now open to full-time PM roles.
 
 ---
 
 ## What I've shipped
+
+### 🎯 Claude API Support Triage Agent
+> *Support tickets shouldn't get answered by vibes — or escalate everything to be safe.*
+
+An agent that triages developer support tickets against real documentation — classifies, retrieves grounded context, calls live tools, drafts a citable response, and routes to a human whenever the stakes or confidence say it should. A rules-based routing engine, not the model, makes the auto-resolve/escalate call.
+
+Ran the finished repo through a 7-point external code review and verified every finding against the live system instead of taking the write-up at face value — 3 of 7 turned out bigger than reported, including Row-Level Security disabled across every table (an unauthenticated client-side call was one step away from full read/write on the database). Fixed all of it, added test coverage for the logic that had already caused two prior bugs, and reran the full dataset on a paid model to cut the incomplete-response rate from 50% to 7.5% for $0.25.
+
+`Next.js` `Supabase/pgvector` `OpenRouter` `TypeScript`
+
+[![Live Demo](https://img.shields.io/badge/Live-agenttriage.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://agenttriage.vercel.app)
+[![Case Study](https://img.shields.io/badge/Case_Study-Read_the_writeup-FF4A1C?style=flat-square)](https://hamidrizvi.vercel.app/projects/triage/narrative)
+[![Repo](https://img.shields.io/badge/GitHub-claude--support--triage--agent-181717?style=flat-square&logo=github)](https://github.com/hamidrizvi4/claude-support-triage-agent)
+
+---
 
 ### 🧾 QuadTax — AI Tax Compliance Engine
 > *Because filing US taxes as an international student is a nightmare that shouldn't exist.*
@@ -105,7 +120,7 @@ When I'm not building: I'm studying chess openings (currently 1272 on Chess.com,
 
 <div align="center">
 
-*Graduating May 2026 · Open to full-time PM roles · Based in NYC*
+*NYU M.S. '26 Grad · Open to full-time PM roles · Based in NYC*
 
 **[View my portfolio →](https://hamidrizvi.vercel.app)**
 
